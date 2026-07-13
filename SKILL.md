@@ -277,6 +277,7 @@ A class-A brief fails this surface if it lacks: an ordered orientation packet ·
 9. **C0–C1** — telos and substrate explicit; run C5 on the brief itself (a few hundred characters must still preserve "true success vs handoff ≠ done").
 10. **Handoff ≠ done** — a session end or a soft compaction produces continuable state, nothing more.
 11. **Adversarial pass on the brief itself** — does any checklist item quietly become an exit ticket? Does any step assume continuous memory across a compaction?
+12. **Paste-block size cap** — goal-arming mechanisms can cap the prompt length (Claude Code's `/goal` rejects a condition over 4000 characters — hit live at 4125). Author the paste block ≤ ~3500 characters: the brief on disk is the law and the prompt is only a pointer to it — open with "read the brief fully first" and keep phase detail, enumerations, and doctrine in the brief, never inlined in the prompt. This is the compactification law applied to the prompt itself: anything load-bearing lives on disk.
 
 Template: `templates/goal-brief.md`. Paste block: `templates/goal-prompt-block.md`.
 
