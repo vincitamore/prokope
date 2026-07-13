@@ -13,6 +13,7 @@ Failure modes of long-horizon goal loops. Use for diagnosis; the list is not exh
 | Trail lapse | Draw-tagging and `not surfaced:` hygiene abandoned mid-marathon |
 | Packaging elevation | Substrate or a change of variables sold as a summit claim |
 | Tip lag | Sessions resume from a stale status head instead of the true tip |
+| Surface bloat | Tracking surfaces outgrow their orientation value; rotate eras — freeze the old as forensics, open fresh artifacts |
 | Overfit gospel | One campaign's constants promoted to universal law |
 | Soft-KEEP theater | Intermediate pins accumulate until they read as altitude |
 | Obstruction museum | Cataloguing what blocks progress without ever changing the engine |

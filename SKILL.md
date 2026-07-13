@@ -92,6 +92,7 @@ Diagnostic lenses for a long goal that is failing. Each names a way long goals a
 | **Trail lapse** | Draws untagged; no `not surfaced:` trails | Hygiene fail; re-arm; draw unworked lenses |
 | **Elevation by packaging** | Substrate renamed as a summit claim | Standing blocks + claim-scale language |
 | **Tip lag** | Status ledger behind the search log | Resume from the last continuable tip, never a mid-file head |
+| **Surface bloat** | Tracking surfaces grow until orienting on them costs more than they carry | **Era rotation**: freeze the old surfaces as read-only forensics; open fresh era artifacts (new node prefix, lean ledger — elevation-relevant entries only) |
 | **Overfit gospel** | A prior campaign's constants treated as universal law | Transfer modes, not numbers |
 | **Summary-as-warrant** | Compaction/summary text treated as exhibit for bars or claims | Re-read tips; the summary is forensics only (§7) |
 | **Ghost continuity** | Standing blocks, draws, or next moves assumed still held in chat after a boundary | Orientation packet; re-draw sortes |
