@@ -102,6 +102,8 @@ Diagnostic lenses for a long goal that is failing. Each names a way long goals a
 
 **Refuse-list for this skill itself:** do not turn any prior campaign's brief into the template with the nouns sanded off; do not hardcode restart cadences as universal constants; do not clone the orchestration companion; do not treat advisory pre-compaction hooks as a substitute for tip-write discipline.
 
+| **Recurrent bar-falsification** | A self-declared true success is falsified by the operator; the re-authored bar gets self-declared and falsified again | Invert verdict authority: completion = evidence pack presented to the operator, who alone rules; coverage-first order if the gaps were coverage-shaped |
+
 Full mode list: `references/collapse-catalog.md`. The compactification family in detail: `references/compactification-survival.md`.
 
 ## §4 · Pressure health (required package for class A)

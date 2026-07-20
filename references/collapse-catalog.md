@@ -25,6 +25,9 @@ Failure modes of long-horizon goal loops. Use for diagnosis; the list is not exh
 | Soft-elevation after compaction | Summary "progress" read as altitude |
 | Orientation inversion | Whole-corpus read before the tip on re-entry |
 | Boundary thrash | Compaction → soft continue → compaction, without a tip or a kill |
+| Recurrent bar-falsification | The operator falsifies a self-declared true success; the loop re-authors the bar and self-declares again, and is falsified again |
+
+**On recurrent bar-falsification, invert verdict authority:** after a second operator falsification, the loop stops declaring success at all — completion becomes an evidence pack (one exhibit per bar clause, pre-named inventories closed by name) presented to the operator, who alone rules. If the falsifications were coverage-shaped, pair with a coverage-first standing order: optimizing inside current coverage while named gaps stand is itself a collapse (basining).
 
 **The brief must refuse to encode any of these as a success condition.** They are diagnostics for a running loop, and a refuse-list for the author.
 
